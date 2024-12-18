@@ -4,3 +4,5 @@ folium
 geopandas
 pandas
 streamlit
+streamlit-option-menu
+

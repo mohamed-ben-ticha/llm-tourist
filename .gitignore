@@ -2,3 +2,4 @@ model
 env
 .ipynb_checkpoints
 __pycache__
+trip_manager
